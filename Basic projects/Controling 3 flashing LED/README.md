@@ -6,7 +6,7 @@
 - Wires
 
 # Circuit diagram
-
+![Data](Screenshot2025-11-24123830.png)
 
 # Code
 ```
