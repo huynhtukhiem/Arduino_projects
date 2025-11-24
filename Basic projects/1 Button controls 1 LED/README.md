@@ -10,6 +10,7 @@
 ![Datasheet](Screenshot2025-11-24191208.png)
 
 # Code
+```
 int led = 1;
 int button = 2;
 
@@ -27,5 +28,4 @@ void loop(){
     digitalWrite(led, LOW);
   }
 }
-
-}
+```
