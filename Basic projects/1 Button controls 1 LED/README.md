@@ -7,6 +7,7 @@
 - Wires
 
 # Circuit diagram
+![Datasheet](Screenshot2025-11-24191208.png)
 
 # Code
 int led = 1;
