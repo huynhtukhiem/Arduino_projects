@@ -6,7 +6,8 @@
 - Wires
 - 
 # Circuit diagram
-![Data](Screenshot 2025-11-24 120513.png)
+
+![Datasheet](Screenshot 2025-11-24 120513.png)
 
 # Code
 ```
