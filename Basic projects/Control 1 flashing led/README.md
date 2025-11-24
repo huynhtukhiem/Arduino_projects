@@ -4,7 +4,7 @@
 - 1 Resistor
 - Breadboard
 - Wires
-- 
+
 # Circuit diagram
 
 ![Datasheet](Screenshot2025-11-2420513.png)
