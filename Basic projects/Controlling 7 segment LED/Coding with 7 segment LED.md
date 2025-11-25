@@ -1,6 +1,5 @@
 - Because this is a common anode 7-segment LED, to light up the digitalWrite is LOW.
   
-  
 # Light up each number
 - Number 1:
   Method 1:
