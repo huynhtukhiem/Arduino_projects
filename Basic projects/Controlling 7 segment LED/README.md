@@ -2,3 +2,15 @@
 
 ![Demo](Screenshot2025-11-26113312.png)(https://www.youtube.com/shorts/a6PXKHLLvQA)
 
+# Components to prepare
+- Arduino Uno R3
+- LED 7 segment
+- 7 Resistor
+- Breadboard
+- Wires
+
+# Circuit diagram 
+
+# Code
+
+
