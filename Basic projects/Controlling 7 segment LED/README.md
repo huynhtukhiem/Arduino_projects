@@ -1,6 +1,6 @@
 # Controlling 7 segment LED run from 0 to 9
-
-![Demo](Screenshot2025-11-26113312.png)(https://www.youtube.com/shorts/a6PXKHLLvQA)
+Watch video demo here: https://www.youtube.com/shorts/a6PXKHLLvQA
+![Demo](Screenshot2025-11-26113312.png)
 
 # Components to prepare
 - Arduino Uno R3
