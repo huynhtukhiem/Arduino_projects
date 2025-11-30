@@ -1,5 +1,7 @@
 # Demo
-Video in my youtube channel: [https://youtube.com/shorts/a6PXKHLLvQA?si=NB4lrE-pkt0jSsF8](https://youtube.com/shorts/a6PXKHLLvQA?si=NB4lrE-pkt0jSsF8)
+- Video deomo in my youtube channel: [https://youtube.com/shorts/a6PXKHLLvQA?si=NB4lrE-pkt0jSsF8](https://youtube.com/shorts/a6PXKHLLvQA?si=NB4lrE-pkt0jSsF8)
+- Full video how to do in my youtube channel: 
+
 # How to do
 Components to prepare:
 - Arduino UNO R3
