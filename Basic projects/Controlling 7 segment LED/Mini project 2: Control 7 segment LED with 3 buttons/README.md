@@ -12,9 +12,12 @@ Components to prepare:
 - Breadboard
 - Wires
 
-![Picture]()
+Circuit_diagram:
+
+![Picture](Circuit_diagram.png)
 
 Code
 ```
+
 
 ```
