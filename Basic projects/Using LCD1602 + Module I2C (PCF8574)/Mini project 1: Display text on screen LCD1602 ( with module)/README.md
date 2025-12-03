@@ -1,6 +1,5 @@
 # Circuit diagram
-
-
+![picture](Picture.png)
 
 # Code and explain
 ```
