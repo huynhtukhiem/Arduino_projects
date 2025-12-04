@@ -3,7 +3,7 @@
 ](https://youtube.com/shorts/4qbBX-nBDGs?feature=share)
 
 # Circuit diagram
-![picture](picture.png)
+![picture](picture(2).png)
 
 # Code
 ```
