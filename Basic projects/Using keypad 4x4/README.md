@@ -3,6 +3,7 @@ Video on my youtube channel: [https://youtube.com/shorts/qgmRXPH44CU?feature=sha
 
 # Circuit diagram
 ```
+HX-543
 Keypad pin 1 <-> pin 2 Arduino
 Keypad pin 2 <-> pin 3 Arduino
 Keypad pin 3 <-> pin 4 Arduino
